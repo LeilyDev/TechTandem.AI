@@ -30,7 +30,7 @@ En la actualidad, las empresas no solo evalúan la capacidad para escribir códi
 ###  **Simulaciones Realistas**
 - **Entrevistas Individuales**: Práctica con IA avanzada que evalúa tanto código como comunicación
 - **Entrevistas Grupales**: Simulaciones colaborativas con otros usuarios en tiempo real
-- **Tests Psicom�tricos**: Evaluación integral de habilidades cognitivas y interpersonales
+- **Tests Psicométricos**: Evaluación integral de habilidades cognitivas y interpersonales
 
 ### **Enfoque en Habilidades Blandas**
 - **Comunicación**: Aprende a explicar conceptos técnicos de manera clara
@@ -50,7 +50,7 @@ En la actualidad, las empresas no solo evalúan la capacidad para escribir códi
 - **Tests Interactivos**: Evaluaciones en JavaScript, SQL, Networking y más
 - **Biblioteca de Recursos**: Acceso a material premium de preparación
 
-### **Comunidad y Colaboraci�n**
+### **Comunidad y Colaboración**
 - **Foros de Discusión**: Intercambia experiencias con otros candidatos
 - **Grupos de Estudio**: Forma equipos para preparación conjunta
 - **Networking**: Conecta con profesionales y mentores
@@ -140,7 +140,7 @@ npm run dev
 
 
 
-## **Tecnolog�as Utilizadas**
+## **Tecnologías Utilizadas**
 
 ### **Core Technologies**
 - **React 18.3.1** - Biblioteca principal de UI
@@ -193,4 +193,4 @@ npm run dev
 
 
 
-**� 2024 TechTandem.AI - Preparaci�n Integral para Entrevistas T�cnicas**
+**2024 TechTandem.AI - Preparaci�n Integral para Entrevistas T�cnicas**

@@ -130,7 +130,7 @@ npm run dev
 
 ---
 
-##**Casos de Uso**
+## **Casos de Uso**
 
 ### **Para Candidatos**
 -  Practica entrevistas técnicas en un entorno seguro
@@ -193,4 +193,4 @@ npm run dev
 
 
 
-**2024 TechTandem.AI - Preparaci�n Integral para Entrevistas T�cnicas**
+**2024 TechTandem.AI - Preparación Integral para Entrevistas Técnicas**

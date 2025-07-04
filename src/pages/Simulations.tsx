@@ -293,7 +293,7 @@ const Simulations = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-[#569c9f]/5">
-      <div className="container mx-auto px-4 py-8">
+      <div className="container mx-auto px-4 py-8 pt-24">
         {renderCurrentView()}
       </div>
     </div>

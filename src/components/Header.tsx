@@ -22,7 +22,7 @@ const Header = () => {
 
   if (isAuthPage) {
     return (
-      <header className="bg-white border-b border-tech-gray">
+      <header className="bg-white/90 backdrop-blur-md border-b border-white/20 shadow-lg sticky top-0 z-10">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-2">
             <div className="w-10 h-10 bg-[#569c9f] rounded-lg flex items-center justify-center">
@@ -48,7 +48,7 @@ const Header = () => {
   if (user) {
     return (
       <>
-        <header className="bg-white border-b border-tech-gray">
+        <header className="bg-white/90 backdrop-blur-md border-b border-white/20 shadow-lg sticky top-0 z-50">
           <div className="container mx-auto px-4 py-4 flex items-center justify-between">
             {isSimulationPage ? (
               <div className="flex items-center space-x-2">
@@ -131,7 +131,7 @@ const Header = () => {
   }
 
   return (
-    <header className="bg-white border-b border-tech-gray">
+    <header className="bg-white/90 backdrop-blur-md border-b border-white/20 shadow-lg sticky top-0 z-50">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
           <div className="w-10 h-10 bg-[#569c9f] rounded-lg flex items-center justify-center">

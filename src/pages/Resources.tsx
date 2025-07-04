@@ -79,7 +79,7 @@ const Resources = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-[#569c9f]/10 via-white to-[#4a9297]/10">
-      <div className="container mx-auto px-4 py-8">
+      <div className="container mx-auto px-4 py-8 pt-24">
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold mb-4 text-[#569c9f]">Recursos para Mejorar tus Habilidades Técnicas</h1>

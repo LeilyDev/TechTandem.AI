@@ -114,6 +114,6 @@ All colors MUST be HSL.
   }
 
   body {
-    @apply bg-background text-foreground;
+    @apply bg-gradient-to-br from-[#f0f8f8] via-[#e8f5f5] to-[#e0f2f2] text-foreground min-h-screen;
   }
 }
